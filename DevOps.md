@@ -1,5 +1,4 @@
-# DevOps Scenario-Based Interview Questions (3–4 Years Experience)
-
+# DevOps Scenario-Based Interview Questions 
 ---
 
 ### 1. Multiple Jenkins pipelines need to share one artifact from Nexus. How do you design it? What do you consider?
