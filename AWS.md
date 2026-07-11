@@ -1,8 +1,4 @@
-# AWS Scenario-Based Interview Questions (3–4 Years Experience)
-
-> Format: Simple language, real interview scenarios, practical answers.
-> Use this as a practice sheet — read the question, try to answer yourself first, then check.
-
+# AWS Scenario-Based Interview Questions
 ---
 
 ### 1. Your application runs fine in India but is slow/not accessible for US users. Why?
